@@ -54,9 +54,17 @@ npm run dev
 npm run build
 ```
 
+## 演示站访问
+
+演示站：[geo.wangshifu.cn](https://geo.wangshifu.cn)
+
+- 主站可直接浏览，无需密码
+- 点击右上角「API」配置接口时需要密码
+- 默认密码：`qrocn`（登录后可自行修改）
+
 ## 配置 AI 接口
 
-点击右上角「API」按钮，配置至少一个 AI 接口的 Key：
+点击右上角「API」→ 输入密码 `qrocn` → 配置至少一个 AI 接口的 Key：
 
 | 接口 | 获取地址 |
 |------|---------|
