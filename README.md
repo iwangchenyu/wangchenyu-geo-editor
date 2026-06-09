@@ -32,6 +32,12 @@
 - 文章导出（Markdown / JSON / 纯文本）
 - 数据看板（平台分布/内容形态/引用信号/合规率）
 - 多 AI 接口自动切换（DeepSeek / 硅基流动 / 智谱 等）
+- <img width="871" height="562" alt="ScreenShot_2026-06-09_234744_762" src="https://github.com/user-attachments/assets/e9fc5040-0e09-4460-b8fe-c8d5387ddb2c" />
+<img width="1017" height="992" alt="ScreenShot_2026-06-09_234823_164" src="https://github.com/user-attachments/assets/933c3daa-00e3-4be1-b167-8264b65bc50c" />
+<img width="1018" height="994" alt="ScreenShot_2026-06-09_234832_793" src="https://github.com/user-attachments/assets/622943ed-a99a-4963-824b-ab740319290e" />
+<img width="1002" height="792" alt="ScreenShot_2026-06-09_234904_242" src="https://github.com/user-attachments/assets/fd03a54c-0675-4111-8b6c-f86debdbe23a" />
+<img width="1012" height="1502" alt="ScreenShot_2026-06-09_234921_821" src="https://github.com/user-attachments/assets/c6103748-3812-47b7-8b68-d3576f707762" />
+
 
 ## 技术栈
 
